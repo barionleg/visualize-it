@@ -2,7 +2,7 @@
 
 This website serves to provide an interactive learning experience for topics in the fields of physics, mathematics, computer science and complex-systems
 
-
+# links by barionleg ComPoSARC kodwebb && kodbök sience ©1932 & ©928 by d'BARdOS SCLJARი©
 
 https://barionleg.github.io/visualize-it/ant_colony_optimization/simulation.html
 
@@ -140,21 +140,23 @@ https://barionleg.github.io/visualize-it/trig_functions/simulation.html
 
 https://barionleg.github.io/visualize-it/vicsek_model/simulation.html
 
-https://barionleg.github.io/visualize-it/videos/simulation.html
+https://barionleg.github.io/visualize-it/videos/firefly_sync.mp4
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/lotka_volterra.mp4
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/parallel.gif
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/parallel.mp4
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/schelling_model.mp4
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/swarming.gif
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/swarming.mp4
 
-https://barionleg.github.io/visualize-it/videos/
+https://barionleg.github.io/visualize-it/videos/swirling.gif
+
+https://barionleg.github.io/visualize-it/videos/swirling.mp4
 
 https://barionleg.github.io/visualize-it/waves/simulation.html
 
